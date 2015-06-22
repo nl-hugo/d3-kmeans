@@ -20,7 +20,7 @@ See the algorithm in action [here](http://nl-hugo.github.io/d3-kmeans/index.html
 
     media\				media files
     kmeans.css          CSS stylesheet
-    index.html         webpage demonstration the algorithm
+    index.html          webpage demonstrating the algorithm
     kmeans.js           JavaScript file with the source code for the algorithm visualization
     README.md           README file that appears on the website's github page
 
