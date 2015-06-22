@@ -16,10 +16,10 @@ source: [wikipedia](https://en.wikipedia.org/wiki/K-means_clustering)
 
 ## Source Code Layout
 
-    kmeans.css          CSS stylesheet
-    kmeans.html         webpage demonstration the algorithm
-    kmeans.js           JavaScript file with the source code for the algorithm visualization
     media\				media files
+    kmeans.css          CSS stylesheet
+    index.html         webpage demonstration the algorithm
+    kmeans.js           JavaScript file with the source code for the algorithm visualization
     README.md           README file that appears on the website's github page
 
 
