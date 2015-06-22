@@ -13,6 +13,8 @@ source: [wikipedia](https://en.wikipedia.org/wiki/K-means_clustering)
 
 ![k-means clustering](/media/kmeans.png "K-means clustering")
 
+See the algorithm in action [here](http://nl-hugo.github.io/d3-kmeans/index.html).
+
 
 ## Source Code Layout
 
